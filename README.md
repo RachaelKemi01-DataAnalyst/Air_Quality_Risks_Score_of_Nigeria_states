@@ -1,0 +1,1 @@
+This githHub repository contains the link to an interactive map created with data extracted from Google Earth Engine, Sentinel Satellite and designed with the use of QGIS and Python. It also has a short power point presentation and python code
